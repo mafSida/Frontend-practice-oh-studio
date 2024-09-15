@@ -47,7 +47,7 @@
 - [ ] Add hover effects to buttons and links.
 - [ ] Implement smooth scrolling for navigation links.
 - [ ] Add animations or transitions to enhance user experience.
-- [ ] Ensure form validation and submission functionality in the contact form.
+- [ ] Please make sure form validation and submission are functional in the contact form.
 
 ## Final Steps
 
@@ -57,3 +57,14 @@
 - [ ] Review and format the code with Prettier.
 - [ ] Deploy the project to GitHub Pages.
 - [ ] Test live deployment to ensure everything works correctly.
+
+## Recommended Course
+
+- [ ] Review the **Frontend Masters "Getting Started With CSS"** course:  
+  [Getting Started With CSS](https://frontendmasters.com/courses/getting-started-css/?utm_source=frontendpractice&utm_medium=website&utm_campaign=frontendpractice)
+
+## Resources
+
+- [ ] Learn about fading effects using **Intersection Observer**.
+- [ ] Explore animation techniques with **WOW.js animations**.
+- [ ] Choose and integrate fonts using **Google Fonts**.
